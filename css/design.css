@@ -9,6 +9,7 @@
   box-shadow: 0 20px 40px -25px hsla(0, 0%, 0%, 0.18);
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #fff;
 }
 
 .container, .nav-container {
