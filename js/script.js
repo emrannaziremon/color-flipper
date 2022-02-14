@@ -16,4 +16,4 @@ function getRandomNumber() {
     return randomColor;
 }
 
-getRandomNumber()
+// getRandomNumber()

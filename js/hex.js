@@ -8,6 +8,7 @@ btn.addEventListener("click", function(){
 
     for(let i = 0; i < 6; i++){
         getHex += hex[getRandom()]
+        console.log(getHex);
     }
 
     color.textContent = getHex;
